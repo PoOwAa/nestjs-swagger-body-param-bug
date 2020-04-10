@@ -2,7 +2,7 @@
 
 This repository shows what's wrong with Swagger generation.
 
-Related issue [nestjs/swagger #669](https://github.com/nestjs/swagger/issues/669)
+Related issue [nestjs/swagger#669](https://github.com/nestjs/swagger/issues/669)
 
 ## Usage
 
